@@ -1,3 +1,13 @@
+/**
+ * Class unchanged from given assignment
+ * 
+ * @author Graham Kitchenka
+ * @author Lixiao Zhu
+ * 
+ * 
+ *
+ */
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;

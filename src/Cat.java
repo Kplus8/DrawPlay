@@ -1,3 +1,13 @@
+/**
+ * Cat class with edits for git practice
+ * 
+ * @author Graham Kitchenka
+ * @author Lixiao Zhu
+ * 
+ * 
+ *
+ */
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
